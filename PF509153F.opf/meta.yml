@@ -16,3 +16,8 @@ source_metadata:
       parent: Mantra
 created_at: '2022-02-28T23:33:30.498920'
 last_modified_at: '2022-02-28T23:33:30.498923'
+statistics:
+  total_words: 1773
+  total_non_words: 157
+quality:
+  non_words_ratio: 0.09
